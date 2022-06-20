@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/aftabwebdev/static/css/main.20f3d96a.css",
+    "main.js": "/aftabwebdev/static/js/main.d0745b43.js",
+    "static/media/bg.jpg": "/aftabwebdev/static/media/bg.51c06498de42c21501d3.jpg",
+    "static/media/Roboto-Regular.ttf": "/aftabwebdev/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Black.ttf": "/aftabwebdev/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Roboto-Light.ttf": "/aftabwebdev/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/JosefinSans-VariableFont_wght.ttf": "/aftabwebdev/static/media/JosefinSans-VariableFont_wght.762df0b3ada8d7e38f03.ttf",
+    "static/media/aftab_pp_540px.jpg": "/aftabwebdev/static/media/aftab_pp_540px.59a43d9dca8d00dacf9e.jpg",
+    "index.html": "/aftabwebdev/index.html",
+    "main.20f3d96a.css.map": "/aftabwebdev/static/css/main.20f3d96a.css.map",
+    "main.d0745b43.js.map": "/aftabwebdev/static/js/main.d0745b43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20f3d96a.css",
+    "static/js/main.d0745b43.js"
+  ]
+}
